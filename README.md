@@ -67,7 +67,7 @@ https://t.me/simfans
 
 ### 连接/无线网卡
 
-gl-inet axt1800
+gl-inet axt1800 (性价比并不高,可以自行选择，最好是淘二手的)
 
 gl-xe300
 
