@@ -46,6 +46,7 @@ https://www.torproject.org/    建议多准备几个不同的浏览器 同时要
 [SMS-Activate是在线接受短信的虚拟号码服务](https://sms-activate.org/cn)
 
 ### 防弹/免述主机/VPN
+！[BF论坛 | 托管服务](https://breachforums.is/Forum-Hosting-Services)
 
 [CrazyRDP | Offshore, Anonymous & Fast Cloud Hosting](https://crazyrdp.com/)
 
@@ -57,21 +58,23 @@ https://www.torproject.org/    建议多准备几个不同的浏览器 同时要
 
 [Proxy-Cheap](https://www.proxy-cheap.com/) (有各种住宅代理)
 
-### 混币器相关
+### 货币交易相关
 
 [Обмен валют - Audi A6](https://audia6.best/)
 
-[Tornado.cash](https://tornado.ws/)
+[Tornado.cash](https://tornado.ws/)  (出现后门 勿使用)
 
-[Tornado.cash (ipfs.io)](https://ipfs.io/ipns/tornadocash.eth/)
-
-[匿名，快速，轻松地买卖门罗币 — LocalMonero](https://localmonero.co/)
+[Tornado.cash (ipfs.io)](https://ipfs.io/ipns/tornadocash.eth/)  (出现后门 勿使用)
 
 [比特币混合器 | Bitcoin Blender | Bitcoin Mixer — YoMix.IO](https://yomix.io/zh)
 
 [比特币混合器 |— Tumbler.io](https://tumbler.io/zh/)
 
 [Mixero - Best Bitcoin Mixer | Bitcoin Blender | Bitcoin Tumbler](https://mixero.io/)
+
+[官推 | 接受门罗币付款的商店和商家，以及将门罗币交易成其他货币的交易所](https://www.getmonero.org/community/merchants/index.html)
+
+[匿名，快速，轻松地买卖门罗币 — LocalMonero](https://localmonero.co/)
 
 ### SIM
 
