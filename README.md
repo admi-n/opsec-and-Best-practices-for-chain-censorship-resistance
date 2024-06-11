@@ -79,6 +79,11 @@ Brave
 
 [Proxy-Cheap](https://www.proxy-cheap.com/) (有各种住宅代理)
 
+### 域名
+无需实名，无需认证手机号。有隐私保护，可用虚拟货币支付。
+https://www.namesilo.com/
+https://www.namecheap.com/
+
 ### 货币交易相关
 
 [Обмен валют - Audi A6](https://audia6.best/)
