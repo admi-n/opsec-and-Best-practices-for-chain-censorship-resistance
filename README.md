@@ -75,6 +75,8 @@ Brave
 
 [Mullvad VPN - 自由畅享互联网](https://mullvad.net/zh-hans)
 
+[NordVPN](https://nordvpn.com/zh/)
+
 [Jink Hosting - Gaming & Cloud Hosting](https://jink.host/)
 
 [Proxy-Cheap](https://www.proxy-cheap.com/) (有各种住宅代理)
