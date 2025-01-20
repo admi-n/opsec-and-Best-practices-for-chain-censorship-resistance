@@ -104,9 +104,13 @@ https://www.namecheap.com/
 
 ### 货币交易相关
 
-[Обмен валют - Audi A6](https://audia6.best/)
+**交易所**
 
-[Tornado.cash](https://tornado.ws/) (出现后门 勿使用)
+利用垮桥链以及不同监管,合规CEX交易所(例如P站等等)加审查难度。后续在放。
+
+**混币器**
+
+[Обмен валют - Audi A6](https://audia6.best/)
 
 [Tornado.cash (ipfs.io)](https://ipfs.io/ipns/tornadocash.eth/) (出现后门 勿使用)
 
