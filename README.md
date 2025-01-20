@@ -1,4 +1,5 @@
 # opsec-and-Best-practices-for-chain-censorship-resistance
+
 # 关于防溯源和链上抗审查最佳实践
 
 -----------------
@@ -35,6 +36,8 @@ gl-xe300
 
 流量可以走通过openwrt  openvpn..
 
+
+
 ### 匿名/浏览器
 
 没有什么匿名的浏览器，建议及时多清空浏览器记录，不直接使用直接绑定身份的账户登录，多准备几个浏览器分开使用。
@@ -59,6 +62,16 @@ Brave
 
 [10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email](https://10minutemail.com/)
 
+### 文件传输
+
+https://beta.fileverse.io/
+
+https://limewire.com/
+
+https://mega.nz 
+
+(非常多的)
+
 ### 无认证手机号码
 
 [Home Page - PingMe](https://pingme.tel/)
@@ -82,8 +95,11 @@ Brave
 [Proxy-Cheap](https://www.proxy-cheap.com/) (有各种住宅代理)
 
 ### 域名
+
 无需实名，无需认证手机号。有隐私保护，可用虚拟货币支付。
+
 https://www.namesilo.com/
+
 https://www.namecheap.com/
 
 ### 货币交易相关
@@ -108,13 +124,17 @@ https://www.namecheap.com/
 
 https://t.me/simfans
 
-## 网络
+
+
+### 网络
 
 [i2p/i2p.i2p：I2P 是一种匿名网络，提供一个简单的层，身份敏感的应用程序可以使用该层进行安全通信。所有数据都用多层加密包裹，网络既是分布式的，又是动态的，没有受信任的各方。](https://github.com/i2p/i2p.i2p)
 
 Tor
 
-## 通讯
+
+
+### 通讯
 
 [ Send Messages, Not Metadata. | Private Messenger (getsession.org)](https://getsession.org/)
 
@@ -124,29 +144,29 @@ Tor
 
 qtox
 
-## 磁盘
-
-用完后确实可以格式化，然后升华？
+### 磁盘
 
 bitlocker +?
 
 https://www.veracrypt.fr/
 
+clean: Eraser  WiseCare
+
 ### Openwrt
 
 https://t.me/+RV6mxIxZJVDByibQ 
 
+https://t.me/+RV6mxIxZJVDByibQ
+
+### Android
+
+[GrapheneOS: the private and secure mobile OS](https://grapheneos.org/)
+
+### 密码管理
+
+[Best Password Manager for Business, Enterprise & Personal | Bitwarden | Bitwarden](https://bitwarden.com/)
 
 
 
 
 ## 参考
-
-来源于一些网站？项目？或者道听途说
-
-~~https://github.com/ffffffff0x/Digital-Privacy~~
-
-~~https://github.com/I-S00N/I-S00N/blob/master/12.md mac相关~~
-
-
-
