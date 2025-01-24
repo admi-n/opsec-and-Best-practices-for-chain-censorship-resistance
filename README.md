@@ -108,11 +108,11 @@ https://www.namecheap.com/
 
 利用垮桥链以及不同监管,合规CEX交易所(例如P站等等)加审查难度。后续在放。
 
-**混币器**
+**混币器**(罗列部分)
 
 [Обмен валют - Audi A6](https://audia6.best/)
 
-[Tornado.cash (ipfs.io)](https://ipfs.io/ipns/tornadocash.eth/) (出现后门 勿使用)
+[Tornado.cash (ipfs.io)](https://ipfs.io/ipns/tornadocash.eth/) 
 
 [比特币混合器 | Bitcoin Blender | Bitcoin Mixer — YoMix.IO](https://yomix.io/zh)
 
@@ -123,6 +123,10 @@ https://www.namecheap.com/
 [官推 | 接受门罗币付款的商店和商家，以及将门罗币交易成其他货币的交易所](https://www.getmonero.org/community/merchants/index.html)
 
 [匿名，快速，轻松地买卖门罗币 — LocalMonero](https://localmonero.co/)
+
+**wallet:**
+
+[Wasabi Wallet - 具有 coinjoin 功能的比特币隐私钱包 --- Wasabi Wallet - Bitcoin privacy wallet with coinjoin](https://wasabiwallet.io/)
 
 ### SIM
 
